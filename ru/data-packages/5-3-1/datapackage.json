@@ -42,6 +42,17 @@
             "title": "SEX"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y20T24",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
