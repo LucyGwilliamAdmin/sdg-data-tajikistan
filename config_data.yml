@@ -63,6 +63,7 @@ inputs:
 sdmx_output:
     meta_reporting_type: N
     meta_ref_area: TJ
+    sender_id: TEST
     
 # Translations
 # ------------
